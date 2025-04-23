@@ -1,0 +1,11 @@
+What is ML
+
+What is a ML algorithm
+
+What is a Model
+
+How apps use a Model
+
+What is inferencing
+
+Size of Models
