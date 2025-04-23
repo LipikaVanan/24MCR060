@@ -9,3 +9,16 @@ How apps use a Model
 What is inferencing
 
 Size of Models
+
+Traditional Application
+As DevOps engineers, we usually deal with applications that are either UI-based or API-based. For example a websites, its backend APIs etc.
+
+These applications are developed with predefined logic. Meaning, we use some framework (e.g., flask, FastAPI), libraries and code them in such a way that if you input certain data, the application will process it based on the predefined logic and return an expected output.
+
+For example,
+
+Input comes in (login credentials, API requests using JWT, etc.)
+
+Predefined backend logic processes it (authentication checks, business rules)
+
+Expected output is returned (access granted/denied, API responses etc)
